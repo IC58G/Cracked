@@ -1,11 +1,22 @@
 # Cracked
 
 ## Xmind
+
 ### 22
-#### common.js ACTIVATION_STATUS.TRIAL => ACTIVATION_STATUS.VALID
+
+#### 
+
+```
+ common.js ACTIVATION_STATUS.TRIAL => ACTIVATION_STATUS.VALID
+```
+
+
+
 ### 23
-#### c.ACTIVATION_STATUS.TRIAL 替换为 c.ACTIVATION_STATUS.VALID
-#### d.ACTIVATION_STATUS.TRIAL 替换为 d.ACTIVATION_STATUS.VALID
+
+#### 暂无
+
+
 
 ##### [更新日志](https://xmind.app/desktop/release-notes/)
 
@@ -13,11 +24,11 @@
 
 ## Termius
 
-```js
+```
 const e=await this.api.bulkAccount();` -> `var e=await this.api.bulkAccount();
 ```
 
-```js
+```
 var e=await this.api.bulkAccount();
 e.account.pro_mode=true;
 e.account.need_to_update_subscription=false;
