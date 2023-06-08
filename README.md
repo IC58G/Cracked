@@ -1,9 +1,10 @@
 # Cracked
 
-## Xmind2023
-
+## Xmind
+### 22
+#### common.js ACTIVATION_STATUS.TRIAL => ACTIVATION_STATUS.VALID
+### 23
 #### c.ACTIVATION_STATUS.TRIAL 替换为 c.ACTIVATION_STATUS.VALID
-
 #### d.ACTIVATION_STATUS.TRIAL 替换为 d.ACTIVATION_STATUS.VALID
 
 ##### [更新日志](https://xmind.app/desktop/release-notes/)
